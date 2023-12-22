@@ -1,0 +1,252 @@
+body {
+    margin: 0;
+    line-height: normal;
+    height: 890px; ;
+    width: 100%;
+  }
+  
+  
+
+.macbook-pro-1-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 592px;
+    object-fit: cover;
+  }
+  .macbook-pro-1-item {
+    position: absolute;
+    border-radius: 0%;
+    background-color: #f9983c;
+    width: 100%;
+    height: 592px;
+  }
+  .an-inspiring-design {
+    position: absolute;
+    top: 83px;
+    left: 136px;
+    font-size: 36px;
+    line-height: 150%;
+    display: inline-block;
+    color: #000;
+    width: 562px;
+  }
+  .group-child {
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    background-color: #000;
+  }
+  .group-child,
+  .rectangle-parent{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+  }
+  .register-now {
+    font-size: 20px;
+    background-color: #000;
+    font-family: Inter;
+    color: #fff;
+    position: relative;
+    border-radius: 8px;
+    top: 415px;
+    left: 515px;
+    height: 64px;
+    width: 215px;
+  }
+  .register-now:hover{
+    opacity: 0.5;
+  }
+  .rectangle-parent {
+    top: 411px;
+    left: 496px;
+    text-align: center;
+  }
+  .our-team-scouts,
+  .show-me-how {
+    position: absolute;
+    left: 136px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    height: 81px;
+  }
+  .our-team-scouts {
+    top: 219px;
+    font-weight: 500;
+    color: #484848;
+    width: 495px;
+  }
+  .show-me-how {
+    top: 315px;
+    font-weight: 800;
+    color: #000;
+    width: 227px;
+  }
+  /* .macbook-pro-1-inner {
+    position: absolute;
+    top: 411px;
+    left: 136px;
+    border-radius: 8px;
+    background-color: #fff;
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 344px;
+    height: 64px;
+  } */
+  .your-e-mail-address {
+    position: absolute;
+    border-radius: 8px;
+    border: 2px solid #000;
+    top: 411px;
+    left: 145px;
+    line-height: 160%;
+    font-weight: 600;
+    color: #888;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    height: 64px;
+    padding-left: 14px;
+
+  }
+  .your-e-mail-address::placeholder{
+    font-size: large;
+  }
+  .dweep-io-1 {
+    position: absolute;
+    /* height: 575px; */
+    width: 25rem;
+    left: 818px;
+    padding: 66.395px 89.61px 66.155px 91.87px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 592px;
+    left: 0;
+    background-color: #000;
+    width: 100%;
+    height: 298px;
+  }
+  .instagramlogo-icon,
+  .linkedinlogo-icon {
+    position: absolute;
+    height: 3.08%;
+    width: 2.04%;
+    top: 81.86%;
+    right: 13.4%;
+    bottom: 15.06%;
+    left: 77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .linkedinlogo-icon {
+    right: 16.08%;
+    left: 80%;
+  }
+  .prompt-generator {
+    position: absolute;
+    top: 654px;
+    left: 191px;
+    line-height: 160%;
+    display: inline-block;
+    width: 216px;
+    height: 36px;
+  }
+  .dweepio,
+  .made-with-love {
+    text-align: right;
+    display: inline-block;
+    height: 36px;
+  }
+  .dweepio {
+    position: absolute;
+    top: 654px;
+    left: 1099px;
+    line-height: 160%;
+    width: 148px;
+  }
+  .made-with-love {
+    top: 690px;
+    left: 1015px;
+    width: 232px;
+  }
+  .dweep-daily,
+  .hellodweepio,
+  .made-with-love {
+    position: absolute;
+    line-height: 160%;
+  }
+  .hellodweepio {
+    top: 798px;
+    left: 1015px;
+    text-align: right;
+    display: inline-block;
+    width: 232px;
+    height: 36px;
+  }
+  .dweep-daily {
+    top: 690px;
+    width: 216px;
+  }
+  .all-contributors,
+  .dweep-daily,
+  .your-data-on {
+    left: 191px;
+    display: inline-block;
+    height: 36px;
+  }
+  .all-contributors {
+    position: absolute;
+    top: 726px;
+    line-height: 160%;
+    width: 216px;
+  }
+  .your-data-on {
+    top: 762px;
+    width: 220px;
+  }
+  .contribute-to-dweep,
+  .free-no,
+  .your-data-on {
+    position: absolute;
+    line-height: 160%;
+  }
+  .contribute-to-dweep {
+    top: 798px;
+    left: 191px;
+    display: inline-block;
+    width: 236px;
+    height: 36px;
+  }
+  .free-no {
+    top: 479px;
+    left: 134px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 344px;
+    height: 61px;
+  }
+  .macbook-pro-1 {
+    position: relative;
+    background-color: #fffcf4;
+    width: 100%;
+    height: 890px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: Inter;
+  }
+  
